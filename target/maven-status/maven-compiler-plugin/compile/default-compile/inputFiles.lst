@@ -1,0 +1,15 @@
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/utils/ResponseFormat.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/db/Users.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/utils/JsonUtil.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/servlets/SignupServlet.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/utils/ApiResponse.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/utils/CorsFilter.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/dtos/Role.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/models/Patient.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/MainServlet.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/dtos/Gender.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/models/Physician.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/servlets/LoginServlet.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/models/Admin.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/models/User.java
+/Users/andela/Downloads/projects/tomcat-server/java_servlet_app/src/main/java/com/richard/user/models/Pharmacist.java

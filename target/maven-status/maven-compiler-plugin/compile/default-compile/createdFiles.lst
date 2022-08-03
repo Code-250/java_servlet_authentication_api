@@ -1,0 +1,17 @@
+com/richard/user/dtos/Role.class
+com/richard/user/servlets/SignupServlet.class
+com/richard/user/dtos/Gender.class
+com/richard/user/utils/ApiResponse.class
+com/richard/user/utils/JsonUtil.class
+com/richard/user/utils/CorsFilter.class
+com/richard/user/models/Admin.class
+com/richard/user/utils/ResponseFormat.class
+com/richard/user/models/User.class
+com/richard/db/Users.class
+com/richard/user/utils/JsonUtil$2.class
+com/richard/user/models/Pharmacist.class
+com/richard/user/models/Patient.class
+com/richard/user/servlets/LoginServlet.class
+com/richard/user/utils/JsonUtil$1.class
+com/richard/user/models/Physician.class
+com/richard/MainServlet.class
